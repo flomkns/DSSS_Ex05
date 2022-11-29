@@ -9,5 +9,6 @@ setup(
     license='Apache-2.0 license',
     author='Florian Mehrkens',
     author_email='flo.mehrkens@fau.de',
+    install_requires=['numpy'],
     description='let it snow (Ex05)'
 )
