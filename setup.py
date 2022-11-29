@@ -3,7 +3,7 @@ from setuptools import find_packages
 
 setup(
     name='snowflake',
-    version='1.0.1',
+    version='1.0.2',
     packages=['let_it_snow'],
     url='https://github.com/flomkns/DSSS_Ex05',
     license='Apache-2.0 license',
