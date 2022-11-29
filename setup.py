@@ -1,10 +1,10 @@
 from setuptools import setup
-import setuptools
+from setuptools import find_packages
 
 setup(
     name='snowflake',
     version='1.0.0',
-    packages=setuptools.find_packages(),
+    packages=find_packages(),
     url='https://github.com/flomkns/DSSS_Ex05',
     license='Apache-2.0 license',
     author='Florian Mehrkens',
