@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name='snowflake',
     version='1.0.0',
-    packages=[''],
+    packages=['snowflake'],
     url='https://github.com/flomkns/DSSS_Ex05',
     license='Apache-2.0 license',
     author='Florian Mehrkens',
